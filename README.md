@@ -1,4 +1,4 @@
-<h3 align="center">Strong engineering professional with a Bachelor's degree focused in Computer Science from State University of Jakarta (Universitas Negeri Jakarta)</h3>
+<h3 align="center">Hi, i'm Firdaus Alif Fahruddin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firdausalif&label=Profile%20views&color=0e75b6&style=flat" alt="firdausalif" /> </p>
 
